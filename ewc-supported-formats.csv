@@ -3,3 +3,4 @@ W3C JWT - Verifiable Credential,jwt_vc_json
 W3C JWT - Verifiable Presentation,jwt_vp_json
 Selective Disclosure - JSON Web Token Verifiable Credential,vc+sd-jwt
 Selective Disclosure - JSON Web Token Verifiable Credential,dc+sd-jwt
+ISO18013-5 Mobile Driver License,org.iso.18013.5.1.mDL
